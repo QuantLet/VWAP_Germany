@@ -1,5 +1,5 @@
 
-Name of QuantLet : VWAP_Forecast
+Name of QuantLet : VWAP
 
 Published in : The behavior of electricity prices at the German intraday market
 
